@@ -1,0 +1,21 @@
+{
+  "name": "outside-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "minimist": "^1.2.5",
+    "ora": "^5.4.1"
+  }
+}
